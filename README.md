@@ -8,6 +8,7 @@ The project evaluates market opportunities, consumer behavior, and adoption pote
 # *Project Architecture*
 
 The end-to-end pipeline spans data ingestion, feature engineering, modeling, validation, and strategic decision-making:
+
 Consumer/Market Data 
         |
        EDA
@@ -52,12 +53,12 @@ Launch Recommendation
 
 6. Market Entry Recommendation Engine
    * Integrates evidence from segmentation, adoption probabilities, spending potential, trends, and city opportunities into a transparent, weighted, and validated ranking model.
-\n
+
 7. Testing the Brazilian Partnership (Experimentation)
    * Treats the 3 Corações partnership as a testable hypothesis using a controlled survey experiment comparing purchase intentions with and without partnership/origin information.
    * Hypothesis: Partnership information increases purchase intention among selected consumer groups.
-\n
-*Pipeline Sequence*
+
+# *Pipeline Sequence*
 
 Consumer Segmentation
          |
